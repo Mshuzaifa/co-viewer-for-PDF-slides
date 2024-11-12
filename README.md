@@ -25,8 +25,10 @@ This project enables real-time synchronization of PDF slides across multiple vie
 - **Others:**
   - **Socket.io-client** for frontend real-time communication.
   - **PDF.js** for rendering and displaying PDFs on the client side.
+    
 -**Hosted link:**
   -https://co-viewer-for-pdf-slides.onrender.com
+  -**for normal users:** https://co-viewer-for-pdf-slides.onrender.com/user
 
 
 ## 📜 Features & Functionality
